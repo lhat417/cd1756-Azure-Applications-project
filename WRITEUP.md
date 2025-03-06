@@ -11,4 +11,4 @@
 ### Assess app changes that would change your decision.
 
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
-* For a more complex app where I needed more control and customizations, I would select the VM option.*
+* For a more complex app where I needed more control and customizations, I would select the VM option.
